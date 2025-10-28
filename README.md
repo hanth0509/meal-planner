@@ -1,8 +1,3 @@
-📄 II. File README.md Cho Dự Án
-Sử dụng nội dung này để tạo file README.md trong thư mục gốc của dự án.
-
-Markdown
-
 # 🍽️ Meal Planner - Ứng Dụng Lập Kế Hoạch Bữa Ăn
 
 Ứng dụng Full-Stack đơn giản được xây dựng bằng Node.js (Express) và PostgreSQL. Cho phép người dùng quản lý, thêm mới, sửa, xóa và tìm kiếm các món ăn, công thức nấu ăn của họ.
@@ -34,7 +29,7 @@ Markdown
 
 ```bash
 # Clone repository
-git clone [Đường dẫn repo của bạn]
+git clone https://github.com/hanth0509/meal-planner.git
 cd meal-planner
 
 # Cài đặt các gói Node.js
